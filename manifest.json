@@ -1,0 +1,9 @@
+{
+  "name": "ModMenu",
+  "version_number": "1.1.0",
+  "website_url": "https://github.com/Skibidi41Rizz/ModMenu",
+  "description": "Adds a MODS [CFG] panel to the main menu: toggle any installed MelonLoader mod on or off and edit its MelonPreferences config live, without leaving the game.",
+  "dependencies": [
+    "LavaGang-MelonLoader-0.7.3"
+  ]
+}
